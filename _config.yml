@@ -245,6 +245,12 @@ acclaim:
     - title: CISSP
       badgeId: 90bf777f-d7dc-430e-91a0-b61a4b92e910
       issuedBy: ISC2
+    - title: ITArchitect
+      badgeId: e0f7cc3a-2a53-44e2-b656-e3983690a49c
+      issuedBy: IBM
+    - title: ITSpecialityNetwork
+      badgeId: 5dcd19d5-5481-4931-aceb-0df65b8d25ab
+      issuedBy: IBM
     - title: Design thinking
       badgeId: 0e291753-a126-49bb-b674-d839ec78ddf5
       issuedBy: IBM
