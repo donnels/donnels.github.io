@@ -158,8 +158,17 @@ skills:
 #Employers and summary Work experience
 roles:
  - title: IT infrastructure architect
+   start: 2021
+   end: ongoing
+   employer: kyndryl
+   description: |
+    9/2021 - To date <br/>
+    kyndryl, Germany <br/>
+    Roles- IT Architect  <br/>
+    Managers- Gregor Hoelscher 1/9/2021 to daze.
+ - title: IT infrastructure architect
    start: 2000
-   end: Ongoing
+   end: 2021
    employer: IBM
    description: |
     10/2000 - To date <br/>
