@@ -13,30 +13,30 @@
 FROM debian:stable-slim as base
 #install the base packages that change infrequently
         RUN mkdir /data \
-            && apt-get update \
-            && apt-get install -y --no-install-recommends \
+            && DEBIAN_FRONTEND=noninteractive apt-get update \
+            && DEBIAN_FRONTEND=noninteractive apt-get install -y --no-install-recommends \
                 bash \
                 wget curl ca-certificates
 
 FROM base as basetools
 #install the base packages that change infrequently
-        RUN apt-get install -y --no-install-recommends \
+        RUN DEBIAN_FRONTEND=noninteractive apt-get install -y --no-install-recommends \
                 netbase aptitude 
 
 FROM basetools as basewkhtml
 #install the base packages that change infrequently
-        RUN apt-get install -y --no-install-recommends \
+        RUN DEBIAN_FRONTEND=noninteractive apt-get install -y --no-install-recommends \
                 wkhtmltopdf xvfb xauth
 
 
 FROM basewkhtml as basepandoc
 #install the base packages that change infrequently
-        RUN apt-get install -y  \
+        RUN DEBIAN_FRONTEND=noninteractive apt-get install -y  \
                 pandoc texlive texlive-base lmodern
 
 FROM basepandoc as tests
 # install the packages we're testing around with
-        RUN apt-get install -y --no-install-recommends \
+        RUN DEBIAN_FRONTEND=noninteractive apt-get install -y --no-install-recommends \
                 chromium
 
 FROM tests
