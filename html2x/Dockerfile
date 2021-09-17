@@ -26,7 +26,7 @@ FROM base as basewkhtml
 
 FROM basewkhtml as basepandoc
 #install the base packages that change infrequently
-        RUN DEBIAN_FRONTEND=noninteractive apt-get install -y  \
+        RUN DEBIAN_FRONTEND=noninteractive apt-get install -y --no-install-recommends \
                 pandoc texlive texlive-base lmodern
 
 FROM basepandoc as tests
