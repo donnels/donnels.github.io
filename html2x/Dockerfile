@@ -18,12 +18,7 @@ FROM debian:stable-slim as base
                 bash \
                 wget curl ca-certificates
 
-FROM base as basetools
-#install the base packages that change infrequently
-        RUN DEBIAN_FRONTEND=noninteractive apt-get install -y --no-install-recommends \
-                netbase aptitude 
-
-FROM basetools as basewkhtml
+FROM base as basewkhtml
 #install the base packages that change infrequently
         RUN DEBIAN_FRONTEND=noninteractive apt-get install -y --no-install-recommends \
                 wkhtmltopdf xvfb xauth
