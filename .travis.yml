@@ -9,7 +9,7 @@ env:
         - CONTMETA_logo="donnellans/logo" Dir_logo="${TRAVIS_BUILD_DIR}/logo" CONTLOCAL_logo="test-logo"
 
 before_install:
-    - apt-get update && sudo apt-get install -y libseccomp2
+    - sudo apt-get update && sudo apt-get install -y libseccomp2
     - docker pull debian:stable-slim
     - docker build -f "${Dir_html2x}/Dockerfile" -t ${CONTMETA_html2x} ${Dir_html2x}
     - docker build -f "${Dir_logo}/Dockerfile" -t ${CONTMETA_logo} ${Dir_logo}
