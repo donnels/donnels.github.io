@@ -5,23 +5,23 @@ services:
 
 env:
     global:
-        - REPO_html2x="donnellans/html2x" Dir_html2x="${TRAVIS_BUILD_DIR}/html2x" CONTAINER_html2x="test-html2x"
-        - REPO_logo="donnellans/logo" Dir_logo="${TRAVIS_BUILD_DIR}/logo" CONTAINER_logo="test-logo"
+        - CONTMETA_html2x="donnellans/html2x" Dir_html2x="${TRAVIS_BUILD_DIR}/html2x" CONTLOCAL_html2x="test-html2x"
+        - CONTMETA_logo="donnellans/logo" Dir_logo="${TRAVIS_BUILD_DIR}/logo" CONTLOCAL_logo="test-logo"
 
 before_install:
     - docker pull debian:stable-slim
-    - docker build -f "${Dir_html2x}/Dockerfile" -t ${REPO_html2x} ${Dir_html2x}
-    - docker build -f "${Dir_logo}/Dockerfile" -t ${REPO_logo} ${Dir_logo}
+    - docker build -f "${Dir_html2x}/Dockerfile" -t ${CONTMETA_html2x} ${Dir_html2x}
+    - docker build -f "${Dir_logo}/Dockerfile" -t ${CONTMETA_logo} ${Dir_logo}
 
 script:
-    - docker run --name "${CONTAINER_html2x}" ${REPO_html2x}
-    - docker run --name "${CONTAINER_logo}" -v"${Dir_logo}":/data ${REPO_logo} 
+    - docker run --name "${CONTLOCAL_html2x}" ${CONTMETA_html2x}
+    - docker run --name "${CONTLOCAL_logo}" -v"${Dir_logo}":/data ${CONTMETA_logo} 
 
 
 after_error:
-    - docker logs ${CONTAINER_html2x}
-    - docker logs ${CONTAINER_logo}
+    - docker logs ${CONTLOCAL_html2x}
+    - docker logs ${CONTLOCAL_logo}
 
 after_failure:
-    - docker logs ${CONTAINER_html2x}
-    - docker logs ${CONTAINER_logo}
+    - docker logs ${CONTLOCAL_html2x}
+    - docker logs ${CONTLOCAL_logo}
