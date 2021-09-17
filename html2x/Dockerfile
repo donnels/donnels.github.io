@@ -28,12 +28,8 @@ FROM basetools as basewkhtml
         RUN apt-get install -y --no-install-recommends \
                 wkhtmltopdf xvfb xauth
 
-FROM basewkhtml as basephantomjs
-#install the base packages that change infrequently
-        RUN apt-get install -y --no-install-recommends \
-                phantomjs
 
-FROM basephantomjs as basepandoc
+FROM basewkhtml as basepandoc
 #install the base packages that change infrequently
         RUN apt-get install -y --no-install-recommends \
                 pandoc texlive texlive-base lmodern
