@@ -11,4 +11,4 @@ WORKDIR /opt/app
 COPY . .
 ENV DISPLAY :99
 ENTRYPOINT ["/bin/sh", "-c", "/usr/bin/xvfb-run -a $@", ""]
-CMD ["openscad" , "-o" , "test.png" , "--imgsize=1220,1080" , "include-Module-IBMlogo3D.scad"]
+#CMD ["openscad" , "-o" , "logo.png" , "--imgsize=1220,1080" , "include-Module-IBMlogo3D.scad"]
