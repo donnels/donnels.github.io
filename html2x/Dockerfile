@@ -31,7 +31,7 @@ FROM basetools as basewkhtml
 
 FROM basewkhtml as basepandoc
 #install the base packages that change infrequently
-        RUN apt-get install -y --no-install-recommends \
+        RUN apt-get install -y  \
                 pandoc texlive texlive-base lmodern
 
 FROM basepandoc as tests
