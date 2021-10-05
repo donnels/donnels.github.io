@@ -253,6 +253,9 @@ github:
 acclaim:
    profileurl: https://www.youracclaim.com/users/sean-donnellan.faa56e53
    badges:
+    - title: Master Certified Solution Architect (L2)
+      badgeId: 917bd14e-a807-44cd-86e8-4aa0a8646c87
+      issuedBy: The Open Group
     - title: CISSP
       badgeId: 90bf777f-d7dc-430e-91a0-b61a4b92e910
       issuedBy: ISC2
