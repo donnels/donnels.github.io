@@ -16,7 +16,8 @@ FROM debian:stable-slim as base
             && DEBIAN_FRONTEND=noninteractive apt-get update \
             && DEBIAN_FRONTEND=noninteractive apt-get install -y --no-install-recommends \
                 bash \
-                wget curl ca-certificates
+                wget curl ca-certificates \
+                xorg xserver-xorg xvfb libx11-dev libxext-dev
 
 FROM base as basewkhtml
 #install the base packages that change infrequently
@@ -36,8 +37,9 @@ FROM basepandoc as tests
 
 FROM tests
 # change across to the WD and populate it
-# do this last as it has the least impact on build time       
+# do this last as it has the least impact on build time  
         WORKDIR /opt/app
+        RUN mkdir ./ProfileDir
         COPY . .
 # Finish up and provide an interface to the container
         EXPOSE 8888/tcp
