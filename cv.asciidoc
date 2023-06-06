@@ -1,0 +1,701 @@
+= CV Sean Donnellan
+
+image::./img/sean-qr.png[]
+
+.GitHub
+* link:https://github.com/donnels[^]
+
+.LinkedIn
+* link:https://de.linkedin.com/in/sean-donnellan-03601b4a[^]
+
+.Acclaim
+* link:https://www.youracclaim.com/users/sean-donnellan.faa56e53[^]
+
+.Research and publications
+* link:https://www.researchgate.net/profile/Sean_Donnellan3/research[^]
+
+== Introduction
+I am an IT architect with 25+ years experience and passion working in technology. 
+
+I have primarily had the responsibility of working as an IT infrastructure architect and have also led teams and managed projects.
+
+I have worked across a broad range of technologies
+
+thereon: Cisco, ACI, Juniper, AIX, Linux, Ansible, DC infrastructure, and most recently NEO4J and data science.
+
+As well as spending a reasonable amount of time building Cloud Network Infrastructure. 
+I am a principal and voting member of the Kyndryl Global Shared Network Inrastructure architecture governance board.
+
+I have had lead roles in large scale data center migration, management, and governance roles across Europe and globally.
+
+I have worked in the IT industry since 1995. 
+I started as a specialist for UNIX and networking. 
+I quickly moved on to parallel computing, enterprise firewall design, and automation, as an architect and consultant. 
+Initially working for an IBM business partner I was involved in both large and small projects across a wide spectrum. 
+Activities included planning and providing training to customers, architecture, consulting, delivery of architectures, automation, team lead, and last level support for more complex problems. 
+Notable achievements are over 5 Extranet firewalls for large corporations and SMB aswell as automated HA solutions before 2000.
+
+In 2000 I left the business partner to start up my own consulting company. 
+During which time I developed and used a documentation system which fully integrated changes made in the customer environment into versioned documents. 
+Other achievments during this time are customer aquisition and numerous small projects such as highly available DHCP infrastructures or Intranet firewalls.
+
+In late 2000 I decided to start working for IBM in the official job role of an IT Architect.
+I have since used the possibilities I was given to expand my knowledge and my network and to become one of the go to people for 
+infrastucture related questions within IBM globally. 
+I have driven data centre design, network design, security design, Virtualization design, and systems management. 
+Amongst other things I have worked with international teams to further Linux on z, data centre design, firewall design, virtualization, and IDS design. 
+I have lead teams, managed projects and supervised implementations across a wide range of projects and technical platforms as well as taking the occasional deep dive into topics like penetration testing or data analysis.
+
+.My wants
+* work with a young team
+* work in an innovative environment
+* pass experience on
+* simple processes
+* work efficiently and sustainably.
+ 
+== Languages
+* Bilingual
+** English
+** German
+
+== Skills
+IT Architect, IT Network Architect, IT Security Architect, Open Group Certified Master Architect, IT Infrastructure Architect, Innovation, New Technologies, Analytical thinking, Deep technological understanding, Cross technology thinking, Teaching, Wild duck, Mentoring, Guidance, Governance, Trusted advisor, Network segregation, Weakness analysis, Threat mitigation, Data Center Architecture, security governance, security policy, automated documentation, CISSP, AIX Advanced Technical Expert, Linux, FOSS, NEO4J, NEO4J Certified, MQTT, IOT, Juniper, Jupyter, Cisco, IBM Cloud, IBM, docker, Mentor, Teacher, Project management, Team lead, python, shell scripting, docker compose, openscad, git, UML, CI/CD, Raspberry Pi, ESP8266/ESP32, Arduino, IPv6, IPv4, penetration testing, slack, agile, ansible, Cloud Computing, Risk Management, Data Center Relocation, Virtualization, Network Security, Virtual Teams, Data Center, IT Service Management, ITIL, IT Management, Disaster Recovery, Patents, Solution Architecture, Enterprise Architecture, High Availability, Storage Area Networks, VMware, Firewalls.
+
+== Employers and summary Work experience
+
+=== Roles
+
+==== IT infrastructure architect
+
+* start: 2021
+** end: ongoing
+* employer: kyndryl
+
+.description: 
+* 9/2021 - To date 
+* kyndryl, Germany 
+* IT Architect  
+* Managers: 
+** Gregor Hoelscher 1/9/2021 to 31/3/2022
+** Petr Panacek from 1/4/2022 to 28/2/2023 
+** Malak Seriani from 1/3/2023 to date
+
+==== title: IT infrastructure architect
+
+* start: 2000
+** end: 2021
+* employer: IBM
+
+.description: 
+* 10/2000 - 9/2021 
+* IBM, Germany 
+* IT Architect 
+* Achievements: 
+** Patent application on a Method and system to enable and accelerate live and near-live migration of virtual machines and their associated storage across networks 
+and numerous further patent applications and granted patents,  
+** Author of Redbook and redpiece on iDataPlex, On Demand Data Center Services (ODCS) - Universal Mgmt. infrastructure (UMI) Dual data center design, Firewall looking glass design, Universal web hosting server farm (USF) firewall mgmt. and improvement, Extranet design, Enterprise data centre firewall placement, Cloud Virtualization Design and security.  
+* Managers:
+** Reiner Lauster from 15/10/2000 to 28/2/2004 
+** Mark Dietrich from 1/3/2004 to 31/8/2004 
+** Peter John from 1/9/2004 to 31/8/2006 
+** Joerg Hess from 1/9/2006 to 30/6/2007 
+** Peter John from 1/7/2007 to 28/4/2009 
+** Antonio Aliatakis 1/5/2009 to 31/12/2009 
+** Nicola Nicolic 1/1/2010 to 31/1/2010 
+** Gerhard Eikmeier 1/2/2010 and 30/6/2018
+** Steffen Berthold 1/7/2019 to 30/6/2021.
+
+==== System Engineer
+
+* start: 2000
+** end: 2000
+* employer: Self Employed
+
+.description: 
+* 04/2000 - 10/2000 
+* Self Employed Consultant, Germany 
+* Freelance IT Security and Network Consultant 
+* Achievements:
+** Diverse customer projects and firewalls. 
+
+==== Senior Engineer
+* start: 1995
+** end: 2000
+* employer: Sysdat GmbH
+
+.description: 
+* 02/1995 to 04/2000 
+* SYSDAT GmbH, Germany 
+* Senior Consultant IT Security 
+* Achievements: 
+** Corporate firewall design, Unix Automation, High Availability, Creation of Firewall Dept. 
+* Roles: 
+** Head of firewall team, 
+** Consultant, 
+** 3rd level support for* AIX/UNIX, Internet protocol (IP), and Internet related issues. 
+* Manager: Michael Brueckner.
+
+==== Translator
+* start: 1991
+** end: 1995
+* employer: Self employed
+* description: 
+----
+German English and English German translations related to the automotive industry.
+----
+
+==== Education
+* level: Leaving Certificate
+** date: 1990
+** school: Sutton Park School Howth Dublin Ireland
+
+== Some private github repositories
+* donnels/donnels.github.io
+* donnels/openscad-examples
+
+== Additional Information
+
+=== Cloud platforms
+I have primarily used IBM/CMS and IBM/Softlayer. 
+I have experience setting up, configuring and running the network intra- and inter-connectivity and security. 
+From underlay, through LAN and WAN, to overlay.
+
+=== Data analysis
+Through experience with multiple DC builds, relocations, merges, out and in-sourcing, and closures, I have learned the importance of having good data. 
+In the last few years I have built an extensive set of tools including graph databses and visulaization tools. 
+Examples are cabling analysis graphs, data based 2 and 3d Rack visualisations, Security policy graphs, network analysis graphs, and general data analysis, transformation, integration, import and export tools.
+Including Airflow checking and automated interfaces to vendor DBs.
+
+=== IPv6 Planning
+In the past years I have been involved in a number of IPv6 projects ranging from simple, Internet connectivity,
+to complex, Enterprise planning reports to the IBM board. 
+I worked as a lead architect in the planning phase for IBM's migration to IPv6. 
+I also worked as an architect for some of the address space planning for the IBM Global Shared Network Infrastructure.
+In addition I also drove the planning for the IPv6 single and dual stack for the CMS cloud Infrastructure, 
+which was not implemented and instead has flowed into other internal infrastructure architectures.
+
+=== Development Control 
+I have a good knowledge of application life-cycle management and have worked primarily with Git and Travis. 
+I have experience with an array of testing tools and CI/CD technologies and methods.
+
+=== Internet Of Things (IOT) 
+I have also gained experience and knowledge of other technologies from several side projects and research that I have undertaken in my free time, including MQTT, NEO4J, a selection of micro controllers (esp8266, esp32, arduino), Raspberry Pi, KNX/EIB, LORAWAN, ISM Band communications, and many other related topics.
+
+=== Diploma thesis supervisor
+* Supervised two Bsc. diploma thesis 
+** 4Q 2004: Logfile Analysis, 
+** 1Q 2002: Network Intrusion Detection System.
+
+== Patents
+
+=== Enablement and acceleration of live and near-live migration of virtual machines and their associated storage across networks 
+* ID: US8429651B2
+* link:https://patents.google.com/patent/US8429651B2/en?q=inventor;sean&inventor=donnellan&oq=inventor;sean+donnellan[^]
+* abstract: 
+----
+A virtual machine is migrated between a source cloud and a destination cloud. A temporary storage is mounted to a partition management firmware of the source cloud and to a partition management firmware of the destination cloud. A first storage location migration migrates the virtual machine from the source cloud to the at least one temporary storage. A second storage location migration migrates the virtual machine from the at least one temporary storage to final destination storage of the destination cloud. The temporary storage is then unmounted from the partition management firmware of the source cloud and from the partition management firmware of the destination cloud.
+----
+
+=== Communications between virtual machines that have been migrated 
+* ID: US8448171B2
+* link:https://patents.google.com/patent/US8448171B2/en?q=inventor;sean&inventor=donnellan&oq=inventor;sean+donnellan[^]
+* abstract: 
+----
+A method, apparatus, and computer program product for managing communications between a plurality of applications are presented. A determination is made as to whether an address in a message is a prior address for a second application in the plurality of applications in response to receiving a message from a first application in the plurality of applications. The message is sent onto a virtual network configured to handle prior addresses for the plurality of applications in response to the address in the message being the prior address for the second application being located on another virtual machine from the first application.
+----
+
+=== Method and apparatus for providing a test network as an IP accessible cloud service
+* ID: US9286103B2
+* link:https://patents.google.com/patent/US9286103B2/en?q=inventor;sean&inventor=donnellan&oq=inventor;sean+donnellan[^]
+* abstract: 
+----
+A method and structure for a cloud service includes an API (application programming interface) as tangibly embodied in a set of computer-executable instructions and selectively executable on a computer on a network. The API provides a user interface for a cloud environment comprising one or more virtual machines to be selectively instantiated on at least one computer in the network upon a user request. A library is accessible via the API, the library providing definitions of components available to be instantiated in the cloud environment. The API automatically instantiates an image of a virtual network of components, as defined by a user input request and provides at least one cloud portal providing the user an access to exercise the instantiated virtual network image.
+----
+
+=== Deploy a secure customer domain in a virtualized multi-tenant environment 
+* ID: DE112014002799T5
+* link:https://patents.google.com/patent/DE112014002799T5/en[^]
+* abstract:
+----
+To provide a secure customer domain in a virtualized multi-tenant environment, a virtual machine (VM) is configured in a customer domain. A first, a second, and a third network interface (VNICs) are configured in the VM. The first VNIC has a first network address in a first address range for a customer domain and allows an application in the VM to access a second application in a second VM in the customer domain. The second VNIC allows a third application outside the customer domain to access the VM in the customer domain. The second VNIC is configured to utilize an address specification used by the server and the third application. The third VNIC allows access from the first application to a fourth application running outside the customer domain. The third VNIC is configured to use an address specification used by the server of the fourth application. 
+----
+
+== publications:
+
+=== Implementing an IBM System x iDataPlex Solution
+* ID: IBM Technical Support Organization, 2009, ISBN/ISSN 0738432520
+* link:https://www-2000.ibm.com/partnerworld/ap/kr/redbook_6.pdf[^]
+* abstract: 
+----
+David Watts, Srihari Angaluri, Martin Bachmaier, Sean Donnellan, Duncan Furniss, Kevin Xu.
+in: IBM Redbooks - Infrastructure Solutions.
+Describes scale out server deployments for both traditional and new deployment modes. 
+Includes designs of alternative cooling methods, and 40 foot container deployments etc.
+----
+
+=== Building an Efficient Data Center with IBM iDataPlex
+* ID: IBM Technical Support Organization, 2008, REDP-4418-00
+* link:https://lenovopress.com/redp4418[^]
+* abstract: 
+----
+David Watts, Srihari Angaluri, Martin Bachmaier, Sean Donnellan, Duncan Furniss, Kevin Xu.   
+in: IBM Redbooks - Infrastructure Solutions
+Describes scale out server deployments for both traditional and new deployment modes. 
+----
+
+=== Dual Data Center - Shared converged PoD
+* ID: IBM, 2005, Internal IBM ICM AssetWeb * e-business Infrastructure & Solutions
+* abstract: 
+----
+Sean Donnellan
+Solution architecture for automated, multi tenant, multi tier, dual site, highly available, data centre. 
+Would be called cloud today.
+----
+
+=== Firewall clustering with FabricPath
+* ID: 2014-Jan-02,IP.com Disclosure Number IPCOM000233937D 
+* abstract: 
+----
+Disclosed is a method to combine firewall clustering with FabricPath to overcome asymmetric routing, ingress path optimization, and Spanning Tree Protocol (STP) problems. This unique design provides a consistent security layer across more than two physical sites working in a stretched data center model.
+----
+
+== projects
+
+=== project
+* period: 2021
+* duration: 0 months
+* clientType: CV writing
+    role: Author/Web designer/Architect
+    description: 
+      Projects between 2013/15 and 2021 are still to be added pending review by legal due to NDAs.
+      Projects included Network, Cloud, virtualization, and DC builds.
+      Industrries included financial, internal, and a mixture of all IBM clients due to DC and cloud activities.
+    contributions: It Architect, Lead It Architect, Specialist (pen tests)
+
+=== project
+    period: 05/2019 - 03/2020
+    duration: 10 months
+    clientType: IBM infrastructure
+    codename: DC modernization
+    description: 
+      Develop and document procedures to renovate a live DC structured cabling infrastructure.
+    role: Lead IT Architect
+    contributions: 
+      Performed initial semi-automated data analysis, 
+      created cabling analysis tooling and graph DB to import overlapping data with additional temporal shift problems, 
+      performed data analysis, 
+      created documentation of cabling infrastructure (>400k ports and >21000km), 
+      created architectural documents and design decisions for live re-cabling and vendor/technology selection, 
+      created feedback loop for data quality improvement out of automated error detection in graph db, 
+      assisted the initial PoC installations.
+
+=== project
+    period: 06/2014 - 09/2015
+    duration: 16 months
+    clientType: Financial Auditors
+    codename: Mercury
+    description: 
+      Develop a private DC network solution for the client, 
+      dual site and disaster recovery, 
+      additional high availability, 
+      WAN and cloud connectivity, 
+      security zoning and firewall/IDS design, 
+      Data center LAN and virtual server connectivity.
+    role: Lead Infrastructure Architect
+    contributions: 
+      Created a HA and DR DC design, 
+      workshops with the client, 
+      presentations to the c suite, 
+      led the implementation, 
+      managed third party service integration, 
+      led the network migrations to the environment.
+
+=== project 
+    period: 06/2013 - ongoing
+    duration: ongoing
+    clientType: IBM infrastructure
+    codename: EMEA Technical Design Authority
+    description: 
+      Perform architecture reviews, 
+      set standards, 
+      Assist engagement teams, 
+      Set strategy, 
+      Responsible for interfacing with global teams, 
+      Provide gorvernance to IMT teams.
+    role: IT Architect
+    contributions: 
+      Active participation in the global GSNI ARB, NS-ACB, and other boards, 
+      Led device certifications for cloud infrastructure, 
+      Led the Pureflex technical network taskforce, 
+      Authored strategy papers, 
+      Led the firmware fix for the entire IBM network switch range, 
+      Created architecture templates and working examples, 
+      Performed as lead network architect in engagements.
+
+=== project
+    period: 01/2011 - 06/2013
+    duration: 30 months
+    clientType: IBM infrastructure
+    codename: GTS_SSA_(Sean Donnellan)
+    description: 
+      Develop, document secure, available, 
+      and flexible Networking and computing infrastructure to host multiple tenants and/or tiers.
+    role: IT Architect
+    contributions: 
+      Planned server network integration tests, Created architecture documents, co-authered and reviewed Network architectural documents (ARC 317), Managed and coordinated network tests, co-authored and reviewed infrastructure tests, Co-ordinated 3rd parties and suppliers, Provided last level support during test phases.
+
+=== project
+    period: 07/2009 - 12/2009
+    duration: 6 months
+    clientType: Retail
+    codename: Data Center Build Planet
+    description: 
+      Develop, document and deploy secure, available, 
+      and flexible computing infrastructure to host client. 
+      In general provide Dynamic on premise DC Infrastructure for client. 
+    role: Lead Network Architect
+    contributions: 
+      Planned customer server migrations, 
+      Created architecture documents, 
+      Reviewed Network Service Delivery provided architectural documents (ARC 317), 
+      Managed and coordinated customer migrations, 
+      Managed and coordinated infrastructure migrations, 
+      Co-ordinated 3rd parties and suppliers, 
+      Provided last level support during migration phases.
+
+=== project
+    period: 02/2009 - 01/2011
+    duration: 24 months
+    clientType: IBM Global Technology Services
+    codename: EMEA Virtualization Wave 2
+    description: 
+      Develop and document secure, available, 
+      and flexible computing infrastructure to host multiple customers on pooled hardware. 
+      In general provide Dynamic Infrastructure for IBM owned data centres.
+    role: IT Infrastructure Architect
+    contributions: 
+      Prepared and achieved internal security certification for multi-tennant virtualization. 
+      Prepared requirements documents for network providers includng SLA, technical requirements, 
+      strategic future requirements, and automation requirements.
+
+=== project
+    period: 05/2008 - 06/2008
+    duration: 2 months
+    clientType: IBM Technical Support Organization
+    codename: iDataPlex Redbook, Redpiece, and SAPR Guide
+    description: 
+      Write a Redbook, a Redpiece, and a SAPR guide for iDataPlex.
+    role: Author
+    contributions: 
+      Co-authored all three documents.
+      Implementing an IBM System x iDataPlex Solution (ISBN 0738432520), 
+      Building an Efficient Data Center with IBM iDataPlex (IBM Form Number REDP-4418-00)
+
+=== project
+    period: 02/2007 - 03/2009
+    duration: 26 months
+    clientType: IBM IT Service Delivery
+    codename: GSNI Migration
+    description: 
+      Deploy and transform a new network architecture for the data centres GSNI Schweinfurt and Ehningen.
+    role: IT Architect
+    contributions: 
+      Performed GAP analysis of new GSNI architecture and existing server implementations, 
+      Planned customer server migrations, 
+      Reviewed Network Service Delivery provided architectural documents (ARC 317), 
+      Managed and coordinated customer migrations, 
+      Managed and coordinated infrastructure migrations.
+
+=== project
+    period: 07/2006 - 08/2007
+    duration: 14 months
+    clientType: IBM IT Service Delivery
+    codename: Advanced Power Virtualization
+    description: 
+      Design and gain internal certification for a virtualized system P IT delivery platform to replace legacy system P environments. 
+    role: IT Architect
+    contributions: 
+      Created architecture documents, 
+      Created certification documents, 
+      Documented LAN Design, 
+      Managed security certification process.
+
+=== project 
+    period: 10/2005 - 07/2006
+    duration: 10 months
+    clientType: Large Insurance
+    codename: Blue Danube Boarding
+    description: 
+      Customer boarding to new dual data centre.
+    role: 
+      Lead Network Architect
+    contributions: 
+      Architecture updates, 
+      Trouble shooting, 
+      Firewall flows, 
+      General network and Universal Management Infrastructure (UMI) integration questions.
+
+=== project
+    period: 04/2005 - 01/2006
+    duration: 10 months
+    clientType: Web Hosting Company
+    codename: GENO Move
+    description: 
+      Move the universal web hosting server farm (USF) from Frankfurt to Ehningen. 
+      All customers and infrastructure to be moved.
+    role: IT Architect
+    contributions: 
+      Documented existing back end connexions, 
+      Planned move of back end connexions, 
+      Provided advice during move, 
+      Coordinated firewall changes, 
+      Provided last level support for back end move, 
+      Coordinated third parties.
+
+=== project
+    period: 11/2004 - 09/2005
+    duration: 11 months
+    clientType: Large Insurance
+    codename: PoD Deployment
+    description: 
+      Deployment of a dual data centre Universal Management Infrastructure shared converged Point of Deployment. (UMI shared cPoD).
+    role: Lead Network Architect
+    contributions: 
+      Design of dual data centre option to cPoD design, 
+      Documentation of dual DC UMI PoD (ARC 317), 
+      Firewall flow documentation, 
+      Input into design of other dual DC PoDs being deployed. 
+
+=== project
+    period: 10/2004 - 12/2004
+    duration: 3 months
+    clientType: Multinational Industrial
+    codename: Firewall Looking Glass for UMI PoD Firewalls
+    description: 
+      Create a mechanism to allow a customer to view customer related parts of firewall configurations,
+       rules, and log files without viewing IBM related rules and log file entries.
+    role: Lead Architect
+    contributions: 
+      Designed, 
+      Implemented, 
+      And documented the system. 
+      Directed the software developers, 
+      And coordinated the integration.
+
+=== project
+    period: 09/2004 - 10/2004
+    duration: 2 months
+    clientType: Airline
+    codename: Aerodyn
+    description:  
+      Customer engagement. 
+      eBusiness Hosting engagement of large customer, 
+      Data centre redesign.
+    role: IT Network and Security Architect
+    contributions: 
+      Gathered information about system dependancies, 
+      Created architectural decisions documentation for DC changes, 
+      Assisted engagement team, 
+      Interacted directly with the customer.
+
+=== project
+    period: 06/2004 - 12/2004
+    duration: 7 months
+    clientType: Multinational Industrial
+    codename: UMI PoD Pilot
+    description: 
+      Pilot a UMI PoD deployment for the customer. 
+    role: IT Network Architect
+    contributions: 
+      Co-author of Technical Solution Design document including firewall application flows,
+      Network design, 
+      Node placement, 
+      etc. 
+
+=== project
+    period: 07/2003 - 10/2004
+    duration: 16 months
+    clientType: Multinational Industrial
+    codename: Yellowstone SNI Connexions
+    description: 
+      Part of the customer outsourcing project. 
+      Document existing IBM Shared Network Infrastructure (SNI) connexions,
+      Design, Implement, And test new SNI connexions, 
+      Ensure security policies are adhered to.
+    role: IT Architect
+    contributions: 
+      Gathered customer requirements, 
+      Provided advice to other teams regarding contract, 
+      Designed new SNI connexions between customer and IBM, 
+      Documented new connexions, 
+      Documented existing connexions, 
+      Documented access methods, 
+      Provided security advice to other sub projects, 
+      Coordinated Customer to IBM email (Notes) connexions.
+
+=== project
+    period: 07/2003 - 02/2004
+    duration: 8 months
+    clientType: IBM WAN infrastructure
+    codename: Nexagent Evaluation
+    description: 
+      Evaluate security and network design of Nexagent carrier peering technology.
+    role: IT Architect
+    contributions:  
+      Planned tests for Nexagent integration, 
+      Evaluated Nexagent design papers, 
+      Inspected Nexagent demonstration laboratory, 
+      Provided guidance to C level mamangement.
+
+=== project
+    period: 07/2003 - 02/2004
+    duration: 8 months
+    clientType: Multinational Industrial
+    codename: Firewall Management Design
+    description: 
+      Redesign the Customers Firewall Management system.
+    role: IT Architect
+    contributions: 
+      Provided initial design, 
+      Documented firewall management design, 
+      Was direct link to the customer.
+
+=== project
+    period: 01/2003 - 05/2003
+    duration: 5 months
+    clientType: Large Bank
+    codename: Symphony
+    description: 
+      Answer Request for Proposal (RFP) from customer.
+    role: IT Security Architect, TSM 
+    contributions: 
+      Provided firewall and Intrusion Detection System (IDS) architecture to proposal.
+
+=== project
+    period: 01/2003 - 06/2003
+    duration: 6 months
+    clientType: Large Insurance Company
+    codename: Privacy Firewall
+    description:  
+      Evaluate the concept of a filter system for customer data sent across IBM 3270 (mainframe) connexions.
+    role: IT Security Architect 
+    contributions: 
+      Provided advice during prototype development, 
+      Developed test scenario for evaluation, 
+      Supervised initial tests, 
+      Counselled Project Manager and lead IT Architect.
+
+=== project
+    period: 09/2001 - 03/2002
+    duration: 7 months
+    clientType: IBM Development Laboratory
+    codename: Linux on 390 (Mainframe) Test
+    description: 
+      Test implementations of Linux on IBM 390 architectures, 
+      Automate testing tasks, 
+      Provide assistance to linux developers.
+    role: IT Architect, System Engineer
+    contributions: 
+      Tested Linux on 390 systems in Virtual Machine (zVM) environments, 
+      Found most bugs during initial automation testing,
+      Provided driver stability feedback, 
+      Automated Linux installation and provisioning, 
+      Worked with Linux developers.
+
+=== project
+    period: 03/2001 - 11/2001
+    duration: 9 months
+    clientType: IBM Web Hosting
+    codename: IDS Probe
+    description: 
+      Design and implement a Network Intrusion Detection System (IDS) probe for the Universal Web Hosting Server Farm (USF V3) in Frankfurt.
+    role: Project Manager, IT Architect
+    contributions: 
+      Provided initial design for probe placement, 
+      Directed development of (SNORT based) self installing Linux IDS probe, 
+      Designed test environment for IDS probe, 
+      Provided hardening for IDS probe, 
+      Directed packaging of IDS probe software, 
+      Directed installation of IDS probe in Frankfurt, 
+      Trained operations team, 
+      Collaborated with international team to integrate solution.
+
+=== project
+    period: 02/2001 - 04/2001
+    duration: 3 months
+    clientType: GSM TELCOs
+    codename: GPRS Roaming Backbone
+    description: 
+      Provide a General Packet Radio Service (GPRS) roaming back bone and application hosting facilities for GPRS Global System for Mobile Communications (GSM) telecommunication companies.
+    role: IT Architect Network and Security
+    contributions: 
+      Initial network design work, 
+      Initial project estimations.
+
+=== project
+    period: 10/2000 - 12/2002
+    duration: 27 months
+    clientType: IBM Web Hosting
+    codename: IBM e-business Hosting Services
+    role: IT Architect
+    description:  
+      E-business Hosting Services is an IBM web hosting business unit. 
+      The project encompassed the ongoing support and build phases of the hosting centres in Germany.
+    contributions:  
+      IT Architect * 
+        Evaluate and integrate new techologies,
+        Assist infrastructure support activities,
+        Work with support team 
+        (Tivoli, network and security specialists), 
+        Support network build of new DC hosting facility, 
+        Design and implement monitoring solution, 
+        Support network security team. 
+      Tools used in the USF * 
+        Tivoli systems management environments, 
+        Netview, 
+        Xylan and Cisco switches, 
+        AIX and NOKIA based CheckPoint FireWall-1 systems.
+
+=== project
+    period: 08/1998 - 12/1998
+    duration: 5 months
+    role: Senior systems Engineer
+    clientType: Readymix
+    codename: Cement
+    description: 
+      Improve the performance of the AIX based IT including IBM SP2, SSA disk systems, HACMP clusters, DB2 and SAP applications.
+    contributions:  
+      I analysed all the production and test HACMP clusters, the ATM network connexions, the SSA Disk subsystems, and the overall AIX based sever environment. 
+      I improved the stability of production clusters, SSA disk subsystems and standalone servers through automation of routine tasks and recognition of pre-failure indications. 
+      The network connexions and routing was also modified to improve the bandwidth available to the SAP systems.
+
+=== project
+    period: 12/1997 - 04/2000
+    duration: 29 months
+    clientType: SYSDAT Consulting
+    codeName: Firewall Dept.
+    role: Senior Systems Engineer
+    description: 
+      Create firewall selling and design capabilities within the company. 
+      Provide security expertise to customers. 
+      Improve the companies own internal network security and provide secure access to the Internet and partners.
+    contributions: 
+      Created the Firewall dept. Designed and built the company Internet and Extranet connectivity. Designed the company Intranet proxy systems. Provided customers with security expertise. Designed and built numerous, multi tier, corporate firewall systems for banks, retail industry, manufacturing industry, and utility companies (based on Cisco, IBM, and Microsoft products). Designed companies Extranet connectivity. Designed anti virus solutions and so on.
+
+=== project
+    period: 04/1997 - 12/1997
+    duration: 9 months
+    clientType: Deutsche Bank
+    codeName: GroGa
+    role: System Engineer
+    description: 
+      Move 200+ stock trader workstations and the complete stock trader data center to a new location. 
+      Move was in parallel with live operations.
+    contributions: 
+      Created automated remote AIX installation scripts to perform activities including root disk mirroring, 
+      monitoring of HACMP and Highly Available Network File Systems (HANFS) disk partition integrity, 
+      automation testing,
+      HA testing,  
+      and application testing.
+      I wrote a web based problem ticket system for the team (>30 people).
+      Assisted in the development of the configuration Graphical User Interface (CMDB) and software which was used to provision servers and workstations.
