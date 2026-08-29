@@ -1,0 +1,38 @@
+name: CI
+
+on:
+  push:
+    branches:
+      - master
+      - main
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  docker-checks:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Build html2x image
+        run: docker build -f "${{ github.workspace }}/html2x/Dockerfile" -t test-html2x "${{ github.workspace }}/html2x"
+
+      - name: Build logo image
+        run: docker build -f "${{ github.workspace }}/logo/Dockerfile" -t test-logo "${{ github.workspace }}/logo"
+
+      - name: Run html2x container
+        run: docker run --name test-html2x-container test-html2x
+
+      - name: Run logo container
+        run: docker run --name test-logo-container -v "${{ github.workspace }}/logo:/data" test-logo
+
+      - name: Print container logs on failure
+        if: failure()
+        run: |
+          docker ps -a || true
+          docker inspect test-html2x-container > /dev/null 2>&1 && docker logs test-html2x-container || true
+          docker inspect test-logo-container > /dev/null 2>&1 && docker logs test-logo-container || true

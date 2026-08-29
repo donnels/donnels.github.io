@@ -113,8 +113,10 @@ skills:
  - Cisco
  - IBM Cloud
  - IBM
- - travis
  - docker
+ - containers
+ - actions
+ - github
  - Mentor
  - Teacher
  - Project management

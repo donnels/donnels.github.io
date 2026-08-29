@@ -10,7 +10,7 @@
 # chromium has a headless mode that I'm experimenting with now and can expose a debug port OR print to pdf
 # netbase was require by phantomjs (I think)
 
-FROM debian:stable-slim as base
+FROM debian:bookworm-slim as base
 #install the base packages that change infrequently
         RUN mkdir /data \
             && DEBIAN_FRONTEND=noninteractive apt-get update \
