@@ -30,5 +30,6 @@ jobs:
       - name: Print container logs on failure
         if: failure()
         run: |
+          docker ps -a || true
           docker logs test-html2x-container || true
           docker logs test-logo-container || true
