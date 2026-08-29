@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.com/donnels/donnels.github.io.svg?branch=master)](https://travis-ci.com/donnels/donnels.github.io)
+[![CI](https://github.com/donnels/donnels.github.io/actions/workflows/ci.yml/badge.svg)](https://github.com/donnels/donnels.github.io/actions/workflows/ci.yml)
 # Sean Donnellan's CV
 A Jekyll based CV page
 
