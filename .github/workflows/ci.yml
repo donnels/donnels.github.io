@@ -34,5 +34,5 @@ jobs:
         if: failure()
         run: |
           docker ps -a || true
-          docker logs test-html2x-container || true
-          docker logs test-logo-container || true
+          docker inspect test-html2x-container > /dev/null 2>&1 && docker logs test-html2x-container || true
+          docker inspect test-logo-container > /dev/null 2>&1 && docker logs test-logo-container || true
